@@ -21,7 +21,7 @@ When you run the application, it will prompt you for your name and initial balan
 
 ## Author
 
-- [Thrisha](https://github.com/your-z)
+- [Thrisha](https://github.com/ThrishaDev25)
 
 ## License
 
